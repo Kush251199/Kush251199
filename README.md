@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kush251199
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning web development frameworks namely, Angular and React.
+- 🌱 I’m currently learning web development frameworks namely, Angular and React. I have also recently learned Node, Mongo and Rest APIs.
 - 📫 You can reach me at my email: gambhir.kush@gmail.com
 
 <!---
